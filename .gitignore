@@ -1,0 +1,9 @@
+# Ignore the .env file to keep environment variables private
+.env
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment folder
+venv/
